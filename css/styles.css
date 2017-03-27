@@ -10,6 +10,8 @@ h2 {margin: 0 0 .5em 0; font-size: 1.6em; font-weight:700; line-height: 1.1em;}
 h3 {margin: 0 0 .5em 0; font-size: 1.3em; font-weight:700; }
 h4 {margin: 0 0 1.5em 0; font-size: 1em; font-weight:700; }
 
+
+
 /* Container */ 
 #page{
     margin: 0 auto;
@@ -223,7 +225,11 @@ nav ul li a {
 nav ul li a:hover {
     color: #ffffff;
     text-decoration: none;
+    background-color: darkred;
 }
+
+
+
 
 
 
